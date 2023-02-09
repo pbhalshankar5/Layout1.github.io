@@ -1,0 +1,22 @@
+li{	
+	display: inline;	
+}
+h1{
+	color: blue;
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+}
+p{
+	font-family: 'Oswald', sans-serif;
+	font-weight:200;
+}
+
+a{
+	text-decoration: none;
+	margin: 0 20px 0 0;
+	color: red;
+	font-size: 20px;	
+}
+h1,a,ul{	
+	text-align: center;		
+}
